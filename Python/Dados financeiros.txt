@@ -1,0 +1,47 @@
+ativo total 22.296.830 18.611.817
+ativo circulante 14.799.483 12.157.015
+caixa e equivalentes de caixa 1.281.569 180.799
+aplicações financeiras 1.220.095 4.446.143
+contas a receber 3.460.711 2.769.649
+estoques 5.459.037 3.509.334
+ativos biológicos
+tributos a recuperar 594.782 777.929
+outros ativos circulantes 2.783.289 473.161
+ativo não circulante 7.497.347 6.454.802
+ativo realizável a longo prazo 1.585.551 1.491.070
+investimentos 1.705.072 1.240.664
+imobilizado 3.613.297 3.196.199
+intangível 593.427 526.869
+passivo total 22.296.830 18.611.817
+passivo circulante 11.512.179 7.203.042
+obrigações sociais e trabalhistas 294.314 309.007
+fornecedores 7.679.861 5.413.546
+obrigações fiscais 331.113 307.695
+empréstimos e financiamentos 1.666.243 8.192
+outras obrigações 1.540.648 1.164.602
+passivo não circulante 3.459.364 3.843.838
+empréstimos e financiamentos 17.725 838.862
+arrendamento mercantil 2.156.522 1.893.790
+tributos diferidos 0 3.725
+provisões fiscais, trabalhistas e cíveis 998.250 767.938
+lucros e receitas a apropriar 286.867 339.523
+patrimônio líquido 7.325.287 7.564.937
+capital social realizado 5.952.282 5.952.282
+reservas de capital -213.037 198.730
+reservas de lucros 1.574.891 1.410.757
+outros resultados abrangentes 11.151 3.168
+receita de venda de bens e/ou serviços 26.130.544 18.491.861
+custo dos bens e/ou serviços vendidos -19.672.090 -13.464.405
+resultado bruto 6.458.454 5.027.456
+despesas/receitas operacionais -5.753.929 -3.745.083
+despesas com vendas -4.476.887 -3.134.586
+despesas gerais e administrativas -1.295.041 -972.582
+perdas pela não recuperabilidade de ativos -100.388 -69.676
+outras receitas operacionais 81.834 352.031
+resultado de equivalência patrimonial 36.553 79.730
+resultado antes do resultado financeiro e dos tributos 704.525 1.282.373
+receitas financeiras 201.463 647.421
+despesas financeiras -526.543 -714.410
+resultado antes dos tributos sobre o lucro 379.445 1.215.384
+imposto de renda e contribuição social sobre o lucro 12.264 -293.556
+lucro/prejuízo do período 391.709 921.828
